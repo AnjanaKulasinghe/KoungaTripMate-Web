@@ -1,0 +1,19 @@
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Build outputs
+dist/
+build/
