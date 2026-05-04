@@ -997,6 +997,10 @@ a {
     .section-title {
         font-size: 2rem;
     }
+
+    .hero-image {
+        display: none !important;
+    }
 }
 
 @media (max-width: 480px) {
