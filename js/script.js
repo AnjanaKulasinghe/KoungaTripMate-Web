@@ -106,10 +106,6 @@ document.addEventListener('DOMContentLoaded', function () {
         button.addEventListener('click', function (e) {
             // Add analytics tracking here if needed
             console.log('Store button clicked:', this.querySelector('.store-name').textContent);
-
-            // Prevent default for now since we don't have actual store links yet
-            e.preventDefault();
-            alert('Download links will be available once the app is published to the stores!');
         });
     });
 
